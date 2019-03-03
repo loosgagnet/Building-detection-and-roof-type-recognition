@@ -1,11 +1,14 @@
 # Building-detection-and-roof-type-recognition
-This repository contains two training datasets for building detection and roof type recognition as follows.
+This repository contains two training datasets for the paper: **A CNN-Based Approach for Automatic Building Detection and Recognition of Roof Types Using a Single Aerial Image** (https://doi.org/10.1007/s41064-018-0060-5).
+
+## Abstract:
+Automatic detection and reconstruction of buildings have become essential in many remote sensing and computer vision applications. In this paper, the capability of Convolutional Neural Networks (CNNs) is investigated for building detection as well as recognition of roof shapes using a single image. The major steps are including training dataset generation, model training, image segmentation, building detection and roof shape recognition. First, a CNN is trained for extracting urban objects such as trees, roads and buildings. Next, classification of different roof types into flat, gable and hip shapes is performed using the second trained CNN. The assessment results prove effectiveness of the proposed method with approximately 97% and 92% of quality rates in detection and recognition steps, respectively. 
 
 ## Dataset 1: 
  
- -- for building detection, 
+ -- For building detection, 
  
- -- it includes three classes of urban objects such as buildings, roads and trees (4800 IR-R-G images per class).
+ -- It includes three classes of urban objects such as buildings, roads and trees (4800 IR-R-G images per class).
  
  -- Image samples of dataset 1:
  
@@ -16,9 +19,9 @@ This repository contains two training datasets for building detection and roof t
 
 ## Dataset 2: 
  
- -- for roof type recognition, 
+ -- For roof type recognition, 
 
--- it includes three classes of roofs such as flat, gable and hip roofs (4800 IR-R-G images per class).
+-- It includes three classes of roofs such as flat, gable and hip roofs (4800 IR-R-G images per class).
 
 -- Image samples of dataset 2:
 
@@ -29,5 +32,11 @@ This repository contains two training datasets for building detection and roof t
 
 
 
-## Download link:
+## Download link (~1.7GB):
 https://drive.google.com/drive/folders/1M9m7KK5SNlBmVRIgcX330UDteP0SqzIh?usp=sharing
+
+
+## Cite:
+If you use this dataset in your research, please make sure to cite the paper:
+Fatemeh Alidoost, Hossein Arefi; “A CNN-Based Approach for Automatic Building Detection and Recognition of Roof Types Using a Single Aerial Image”, PFG – Journal of Photogrammetry, Remote Sensing and Geoinformation Science, December 2018, Volume 86, Issue 5–6, pp 235–248, https://doi.org/10.1007/s41064-018-0060-5
+
