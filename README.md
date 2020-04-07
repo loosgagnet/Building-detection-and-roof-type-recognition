@@ -8,7 +8,7 @@ Automatic detection and reconstruction of buildings have become essential in man
  
  -- For building detection, 
  
- -- It includes three classes of urban objects such as buildings, roads and trees (4800 IR-R-G images per class).
+ -- It includes three classes of urban objects such as buildings, roads and trees (4800 IR-R-G images per class, after data augmentation).
  
  -- Image samples of dataset 1:
  
@@ -21,7 +21,7 @@ Automatic detection and reconstruction of buildings have become essential in man
  
  -- For roof type recognition, 
 
--- It includes three classes of roofs such as flat, gable and hip roofs (4800 IR-R-G images per class).
+-- It includes three classes of roofs such as flat, gable and hip roofs (4800 IR-R-G images per class, after data augmentation).
 
 -- Image samples of dataset 2:
 
@@ -33,7 +33,7 @@ Automatic detection and reconstruction of buildings have become essential in man
 
 
 ## Download link (~1.7GB):
-https://drive.google.com/drive/folders/1M9m7KK5SNlBmVRIgcX330UDteP0SqzIh?usp=sharing
+https://drive.google.com/drive/folders/1OGJTWCtMJafqzvuLGDJ-29GcORf5mI6_?usp=sharing
 
 
 ## Cite:
